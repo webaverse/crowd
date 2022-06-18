@@ -12,7 +12,7 @@ export default () => {
   const npcArray = [];
   let crowdSpawned = false;
   const npcVariants = 3;
-  const totalVariants = 10;
+  const totalVariants = 1;
   const density = 2;
 
   app.name = 'crowd';
